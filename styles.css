@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Bitter', serif;
+    margin: 10px;
+    padding: 5px;
+    border: 10px dotted cyan;
+}
+
+.dog {
+    width: 200px;
+padding:10px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+
